@@ -1,7 +1,7 @@
 # SimplePCR-PrimerGuide
 Resource to learn: 
 Youtube Video: https://www.youtube.com/live/8zwvu2mq5CY?si=lNbxUf08cQg6GnGk (start from: 44:17)
-Paper: 
+Paper: https://github.com/MuhammdHaseeb/SimplePCR-PrimerGuide/blob/main/pdf/primer_design.pdf
 
 Primer are short single standed nucleotides sequence(18-24) that are used to amplify the desired region of the DNA. Generally, forward and reverse primer are used to amplify the region for downstream analysis. 
 
